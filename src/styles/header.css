@@ -1,0 +1,19 @@
+.default { 
+    width: 100%;
+    background-color: lightgray;
+    height: 80px;
+}
+.wrapper { 
+    margin-left: 80px;
+    margin-right: 80px;
+    display: flex;
+    justify-content: center;
+}
+.menu { 
+    display: flex;
+    justify-content: center;
+    margin-left: 400px;
+}
+.signin { 
+    margin-left: 200px;
+}
